@@ -59,4 +59,8 @@ Root Mean Squared Error (RMSE)
 R-squared (R2)
 # Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request. We welcome contributions such as adding new models, improving data preprocessing, or enhancing visualization.
+# License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Feel free to adapt this README file to your specific number recognition project, ensuring it accurately represents your project's goals and details.
 
